@@ -1,3 +1,3 @@
 @echo off
 
-npm init
+npm install -y
